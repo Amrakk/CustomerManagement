@@ -1,0 +1,14 @@
+D:\Visual Studio\StorageClientData\StorageClientData\bin\Debug\StorageClientData.exe.config
+D:\Visual Studio\StorageClientData\StorageClientData\bin\Debug\StorageClientData.exe
+D:\Visual Studio\StorageClientData\StorageClientData\bin\Debug\StorageClientData.pdb
+D:\Visual Studio\StorageClientData\StorageClientData\bin\Debug\Guna.UI2.dll
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StoringClientData.csproj.AssemblyReference.cache
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StoringClientData.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StorageClientData.Form1.resources
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StorageClientData.Properties.Resources.resources
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StoringClientData.csproj.GenerateResource.cache
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StoringClientData.csproj.CoreCompileInputs.cache
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StoringClientData.csproj.CopyComplete
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StorageClientData.exe
+D:\Visual Studio\StorageClientData\StorageClientData\obj\Debug\StorageClientData.pdb
+D:\Visual Studio\StorageClientData\StorageClientData\bin\Debug\FontAwesome.Sharp.dll
